@@ -1,0 +1,32 @@
+* {
+    font-family: "Courgette", cursive;
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+
+}
+
+h1.second {
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+}
+
+ol.list {
+    display: inline-block;
+    text-align: center;
+    margin-top: auto;
+    padding: auto;
+}
+
+button {
+    background-color: #3385ff;
+    color: white;
+    font-size: 16px;
+    border-radius: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    padding: .5% 2%;
+}
